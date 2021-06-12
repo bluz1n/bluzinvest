@@ -2,6 +2,8 @@ import styled from 'styled-components';
 
 export const Container = styled.header`
     background: var(--blue);
+    background: linear-gradient(90deg, var(--blue) 0%, var(--blue-light) 100%);
+
 
 `;
 
