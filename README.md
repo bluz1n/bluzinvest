@@ -3,7 +3,7 @@ bluzinvest was made for my final project on the Framework class. The main goal o
 
 Also, this was made possible with the Ignite camp, from Rocketseat.
 
-I used ReactJS, Typescript (and TSX) along with other services, like Axios and MirageJS
+I used HTML, ReactJS, Typescript (and TSX) along with other services, like Axios and MirageJS
 
 Instructions:
 
